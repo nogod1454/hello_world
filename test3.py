@@ -10,3 +10,8 @@ month = now.month + 1
 print(f"{year}年{month}月".center(20))
 print(calendar.month(year, month))
 print(calendar.month(year, month))
+print(calendar.month(year, month))
+print(calendar.month(year, month))
+print(calendar.month(year, month))
+print(calendar.month(year, month))
+print(calendar.month(year, month))
