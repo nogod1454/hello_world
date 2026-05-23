@@ -9,3 +9,4 @@ month = now.month
 # 打印当前月份的日历
 print(f"{year}年{month}月".center(20))
 print("xdd")
+print("xdd")
